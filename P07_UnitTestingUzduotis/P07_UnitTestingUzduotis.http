@@ -1,0 +1,6 @@
+@P07_UnitTestingUzduotis_HostAddress = http://localhost:5079
+
+GET {{P07_UnitTestingUzduotis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

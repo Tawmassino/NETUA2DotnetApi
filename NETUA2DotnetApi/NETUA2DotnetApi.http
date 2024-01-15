@@ -1,0 +1,6 @@
+@NETUA2DotnetApi_HostAddress = http://localhost:5011
+
+GET {{NETUA2DotnetApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
